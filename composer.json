@@ -1,0 +1,8 @@
+{
+    "name": "mitni/sample-composer-template",
+    "autoload": {
+        "psr-0" : {
+            "Mitni\\Sample" : "src"
+        }
+    }
+}
